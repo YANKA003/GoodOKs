@@ -11,7 +11,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         // RuStore SDK repository
-        maven { url 'https://sdk.rustore.ru/' }
+        maven { url 'https://repo.rustore.ru/' }
     }
 }
 rootProject.name = "GoodOK"
