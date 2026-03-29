@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">GoodOK</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone (required)</string>
+    <string name="phone_hint">+1 XXX XXX-XXXX</string>
+    <string name="no_account">No account? Register</string>
+    <string name="have_account">Have an account? Login</string>
+    <string name="fill_all_fields">Fill in all required fields</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="invalid_phone">Invalid phone format</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+
+    <!-- Language & Theme Selection -->
+    <string name="select_language">Select Language</string>
+    <string name="select_theme">Select Design</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_english">English</string>
+    <string name="lang_belarusian">Беларуская</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_french">Français</string>
+
+    <!-- Themes -->
+    <string name="theme_classic">Classic</string>
+    <string name="theme_modern">Modern</string>
+    <string name="theme_neon">Neon</string>
+    <string name="theme_childish">Kids</string>
+
+    <!-- Navigation -->
+    <string name="chats">Chats</string>
+    <string name="calls">Calls</string>
+    <string name="contacts">Contacts</string>
+    <string name="channels">Channels</string>
+    <string name="settings">Settings</string>
+
+    <!-- Chat -->
+    <string name="type_message">Type a message...</string>
+    <string name="send">Send</string>
+    <string name="online">online</string>
+    <string name="offline">offline</string>
+    <string name="last_seen">last seen %1$s</string>
+    <string name="typing">typing...</string>
+    <string name="today">today</string>
+    <string name="yesterday">yesterday</string>
+
+    <!-- Media -->
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="document">Document</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="record_video">Record Video</string>
+    <string name="attach_file">Attach File</string>
+
+    <!-- Calls -->
+    <string name="voice_call">Voice Call</string>
+    <string name="video_call">Video Call</string>
+    <string name="calling">Calling...</string>
+    <string name="ringing">Ringing...</string>
+    <string name="connected">Connected</string>
+    <string name="call_ended">Call Ended</string>
+    <string name="call_declined">Call Declined</string>
+    <string name="call_missed">Missed Call</string>
+    <string name="end_call">End</string>
+    <string name="accept_call">Accept</string>
+    <string name="decline_call">Decline</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="speaker">Speaker</string>
+    <string name="camera">Camera</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="incoming_call">Incoming Call</string>
+
+    <!-- Contacts -->
+    <string name="import_contacts">Import Contacts</string>
+    <string name="sync_contacts">Sync Contacts</string>
+    <string name="contacts_imported">Contacts imported</string>
+    <string name="contacts_permission">Contact permission required for import</string>
+    <string name="no_contacts">No contacts</string>
+    <string name="start_chat">Start Chat</string>
+
+    <!-- Channels -->
+    <string name="create_channel">Create Channel</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">Channel Description</string>
+    <string name="subscribers">subscribers</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="no_channels">No channels</string>
+
+    <!-- Settings -->
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_avatar">Change Avatar</string>
+    <string name="notifications">Notifications</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="privacy">Privacy</string>
+    <string name="biometric_auth">Fingerprint Login</string>
+    <string name="biometric_enabled">Fingerprint login enabled</string>
+    <string name="biometric_disabled">Fingerprint login disabled</string>
+    <string name="biometric_title">Login to GoodOK</string>
+    <string name="biometric_subtitle">Use your fingerprint to login</string>
+    <string name="language">Language</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="about">About</string>
+    <string name="version">Version %s</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm">Are you sure you want to logout?</string>
+
+    <!-- Premium -->
+    <string name="premium">Premium</string>
+    <string name="premium_features">Premium Features</string>
+    <string name="premium_description">Unlock all features</string>
+    <string name="premium_subscribe">Subscribe</string>
+    <string name="premium_month">1 month - $2.99</string>
+    <string name="premium_year">1 year - $24.99</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera">Camera permission required for photos and video calls</string>
+    <string name="permission_microphone">Microphone permission required for calls</string>
+    <string name="permission_contacts">Contacts permission required for import</string>
+    <string name="permission_storage">Storage permission required to send files</string>
+    <string name="grant_permission">Grant</string>
+
+    <!-- Errors -->
+    <string name="network_error">Network error</string>
+    <string name="auth_error">Authentication error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="user_not_found">User not found</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="email_in_use">Email already in use</string>
+
+    <!-- Common -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="copy">Copy</string>
+    <string name="forward">Forward</string>
+    <string name="reply">Reply</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading...</string>
+    <string name="retry">Retry</string>
+</resources>

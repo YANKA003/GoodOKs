@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">GoodOK</string>
+
+    <!-- Auth -->
+    <string name="login">Увійти</string>
+    <string name="register">Реєстрація</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="password_confirm">Підтвердьте пароль</string>
+    <string name="username">Ім\'я користувача</string>
+    <string name="phone">Телефон (обов\'язково)</string>
+    <string name="phone_hint">+380 XX XXX-XX-XX</string>
+    <string name="no_account">Немає акаунту? Зареєструватися</string>
+    <string name="have_account">Вже є акаунт? Увійти</string>
+    <string name="fill_all_fields">Заповніть всі обов\'язкові поля</string>
+    <string name="passwords_not_match">Паролі не співпадають</string>
+    <string name="invalid_phone">Невірний формат телефону</string>
+    <string name="error">Помилка</string>
+    <string name="success">Успішно</string>
+
+    <!-- Language & Theme Selection -->
+    <string name="select_language">Виберіть мову</string>
+    <string name="select_theme">Виберіть дизайн</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_english">English</string>
+    <string name="lang_belarusian">Беларуская</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_french">Français</string>
+
+    <!-- Themes -->
+    <string name="theme_classic">Класичний</string>
+    <string name="theme_modern">Сучасний</string>
+    <string name="theme_neon">Неон</string>
+    <string name="theme_childish">Дитячий</string>
+
+    <!-- Navigation -->
+    <string name="chats">Чати</string>
+    <string name="calls">Дзвінки</string>
+    <string name="contacts">Контакти</string>
+    <string name="channels">Канали</string>
+    <string name="settings">Налаштування</string>
+
+    <!-- Chat -->
+    <string name="type_message">Введіть повідомлення...</string>
+    <string name="send">Надіслати</string>
+    <string name="online">онлайн</string>
+    <string name="offline">офлайн</string>
+    <string name="last_seen">був(ла) %1$s</string>
+    <string name="typing">друкує...</string>
+    <string name="today">сьогодні</string>
+    <string name="yesterday">вчора</string>
+
+    <!-- Media -->
+    <string name="photo">Фото</string>
+    <string name="video">Відео</string>
+    <string name="audio">Аудіо</string>
+    <string name="document">Документ</string>
+    <string name="take_photo">Зробити фото</string>
+    <string name="choose_from_gallery">Вибрати з галереї</string>
+    <string name="record_video">Записати відео</string>
+    <string name="attach_file">Прикріпити файл</string>
+
+    <!-- Calls -->
+    <string name="voice_call">Голосовий дзвінок</string>
+    <string name="video_call">Відеодзвінок</string>
+    <string name="calling">Виклик...</string>
+    <string name="ringing">Виклик...</string>
+    <string name="connected">З\'єднано</string>
+    <string name="call_ended">Дзвінок завершено</string>
+    <string name="call_declined">Дзвінок відхилено</string>
+    <string name="call_missed">Пропущений дзвінок</string>
+    <string name="end_call">Завершити</string>
+    <string name="accept_call">Прийняти</string>
+    <string name="decline_call">Відхилити</string>
+    <string name="mute">Вимк. мікрофон</string>
+    <string name="unmute">Увімк. мікрофон</string>
+    <string name="speaker">Динамік</string>
+    <string name="camera">Камера</string>
+    <string name="switch_camera">Перемкнути камеру</string>
+    <string name="incoming_call">Вхідний дзвінок</string>
+
+    <!-- Contacts -->
+    <string name="import_contacts">Імпортувати контакти</string>
+    <string name="sync_contacts">Синхронізувати контакти</string>
+    <string name="contacts_imported">Контакти імпортовано</string>
+    <string name="contacts_permission">Для імпорту контактів необхідний дозвіл</string>
+    <string name="no_contacts">Немає контактів</string>
+    <string name="start_chat">Почати чат</string>
+
+    <!-- Channels -->
+    <string name="create_channel">Створити канал</string>
+    <string name="channel_name">Назва каналу</string>
+    <string name="channel_description">Опис каналу</string>
+    <string name="subscribers">підписників</string>
+    <string name="subscribe">Підписатися</string>
+    <string name="unsubscribe">Відписатися</string>
+    <string name="no_channels">Немає каналів</string>
+
+    <!-- Settings -->
+    <string name="profile">Профіль</string>
+    <string name="edit_profile">Редагувати профіль</string>
+    <string name="change_avatar">Змінити аватар</string>
+    <string name="notifications">Сповіщення</string>
+    <string name="push_notifications">Push-сповіщення</string>
+    <string name="sound">Звук</string>
+    <string name="vibration">Вібрація</string>
+    <string name="privacy">Приватність</string>
+    <string name="biometric_auth">Вхід по відбитку пальця</string>
+    <string name="biometric_enabled">Вхід по відбитку увімкнено</string>
+    <string name="biometric_disabled">Вхід по відбитку вимкнено</string>
+    <string name="biometric_title">Вхід в GoodOK</string>
+    <string name="biometric_subtitle">Використовуйте відбиток пальця для входу</string>
+    <string name="language">Мова</string>
+    <string name="appearance">Зовнішній вигляд</string>
+    <string name="theme">Тема</string>
+    <string name="about">Про програму</string>
+    <string name="version">Версія %s</string>
+    <string name="logout">Вийти</string>
+    <string name="logout_confirm">Ви впевнені, що хочете вийти?</string>
+
+    <!-- Premium -->
+    <string name="premium">Premium</string>
+    <string name="premium_features">Premium функції</string>
+    <string name="premium_description">Розблокуйте всі можливості</string>
+    <string name="premium_subscribe">Підписатися</string>
+    <string name="premium_month">1 місяць - $2.99</string>
+    <string name="premium_year">1 рік - $24.99</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera">Для фото та відеодзвінків потрібен доступ до камери</string>
+    <string name="permission_microphone">Для дзвінків потрібен доступ до мікрофона</string>
+    <string name="permission_contacts">Для імпорту контактів потрібен доступ до контактів</string>
+    <string name="permission_storage">Для відправки файлів потрібен доступ до сховища</string>
+    <string name="grant_permission">Дозволити</string>
+
+    <!-- Errors -->
+    <string name="network_error">Помилка мережі</string>
+    <string name="auth_error">Помилка авторизації</string>
+    <string name="unknown_error">Невідома помилка</string>
+    <string name="user_not_found">Користувача не знайдено</string>
+    <string name="wrong_password">Невірний пароль</string>
+    <string name="email_in_use">Email вже використовується</string>
+
+    <!-- Common -->
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="cancel">Скасувати</string>
+    <string name="save">Зберегти</string>
+    <string name="delete">Видалити</string>
+    <string name="edit">Редагувати</string>
+    <string name="copy">Копіювати</string>
+    <string name="forward">Переслати</string>
+    <string name="reply">Відповісти</string>
+    <string name="search">Пошук</string>
+    <string name="loading">Завантаження...</string>
+    <string name="retry">Повторити</string>
+</resources>

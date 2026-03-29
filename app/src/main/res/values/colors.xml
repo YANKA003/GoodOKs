@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="gray_dark">#616161</color>
+
+    <!-- Classic Theme -->
+    <color name="primary_classic">#2196F3</color>
+    <color name="primary_dark_classic">#1976D2</color>
+    <color name="accent_classic">#FF9800</color>
+    <color name="background_classic">#FFFFFF</color>
+    <color name="surface_classic">#FFFFFF</color>
+    <color name="text_primary_classic">#212121</color>
+    <color name="text_secondary_classic">#757575</color>
+    <color name="message_sent_classic">#DCF8C6</color>
+    <color name="message_received_classic">#FFFFFF</color>
+
+    <!-- Modern Theme -->
+    <color name="primary_modern">#6200EE</color>
+    <color name="primary_dark_modern">#3700B3</color>
+    <color name="accent_modern">#03DAC6</color>
+    <color name="background_modern">#121212</color>
+    <color name="surface_modern">#1E1E1E</color>
+    <color name="text_primary_modern">#FFFFFF</color>
+    <color name="text_secondary_modern">#B0B0B0</color>
+    <color name="message_sent_modern">#3700B3</color>
+    <color name="message_received_modern">#2D2D2D</color>
+
+    <!-- Neon Theme -->
+    <color name="primary_neon">#00FF00</color>
+    <color name="primary_dark_neon">#00CC00</color>
+    <color name="accent_neon">#FF00FF</color>
+    <color name="background_neon">#0A0A0A</color>
+    <color name="surface_neon">#1A1A1A</color>
+    <color name="text_primary_neon">#00FF00</color>
+    <color name="text_secondary_neon">#00CC00</color>
+    <color name="message_sent_neon">#002200</color>
+    <color name="message_received_neon">#001100</color>
+    <color name="neon_pink">#FF00FF</color>
+    <color name="neon_cyan">#00FFFF</color>
+    <color name="neon_yellow">#FFFF00</color>
+
+    <!-- Childish Theme -->
+    <color name="primary_childish">#FF6B6B</color>
+    <color name="primary_dark_childish">#EE5A5A</color>
+    <color name="accent_childish">#4ECDC4</color>
+    <color name="background_childish">#FFF5E6</color>
+    <color name="surface_childish">#FFFFFF</color>
+    <color name="text_primary_childish">#2D3436</color>
+    <color name="text_secondary_childish">#636E72</color>
+    <color name="message_sent_childish">#FFECB3</color>
+    <color name="message_received_childish">#E8F5E9</color>
+
+    <!-- Common colors -->
+    <color name="online">#4CAF50</color>
+    <color name="offline">#9E9E9E</color>
+    <color name="error">#F44336</color>
+    <color name="success">#4CAF50</color>
+    <color name="call_accept">#4CAF50</color>
+    <color name="call_decline">#F44336</color>
+</resources>

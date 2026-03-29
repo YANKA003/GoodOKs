@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">GoodOK</string>
+
+    <!-- Auth -->
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="password_confirm">Подтвердите пароль</string>
+    <string name="username">Имя пользователя</string>
+    <string name="phone">Телефон (обязательно)</string>
+    <string name="phone_hint">+375 XX XXX-XX-XX</string>
+    <string name="no_account">Нет аккаунта? Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="fill_all_fields">Заполните все обязательные поля</string>
+    <string name="passwords_not_match">Пароли не совпадают</string>
+    <string name="invalid_phone">Неверный формат телефона</string>
+    <string name="error">Ошибка</string>
+    <string name="success">Успешно</string>
+
+    <!-- Language & Theme Selection -->
+    <string name="select_language">Выберите язык</string>
+    <string name="select_theme">Выберите дизайн</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_english">English</string>
+    <string name="lang_belarusian">Беларуская</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_french">Français</string>
+
+    <!-- Themes -->
+    <string name="theme_classic">Классический</string>
+    <string name="theme_modern">Современный</string>
+    <string name="theme_neon">Неон</string>
+    <string name="theme_childish">Детский</string>
+
+    <!-- Navigation -->
+    <string name="chats">Чаты</string>
+    <string name="calls">Звонки</string>
+    <string name="contacts">Контакты</string>
+    <string name="channels">Каналы</string>
+    <string name="settings">Настройки</string>
+
+    <!-- Chat -->
+    <string name="type_message">Введите сообщение...</string>
+    <string name="send">Отправить</string>
+    <string name="online">онлайн</string>
+    <string name="offline">офлайн</string>
+    <string name="last_seen">был(а) %1$s</string>
+    <string name="typing">печатает...</string>
+    <string name="today">сегодня</string>
+    <string name="yesterday">вчера</string>
+
+    <!-- Media -->
+    <string name="photo">Фото</string>
+    <string name="video">Видео</string>
+    <string name="audio">Аудио</string>
+    <string name="document">Документ</string>
+    <string name="take_photo">Сделать фото</string>
+    <string name="choose_from_gallery">Выбрать из галереи</string>
+    <string name="record_video">Записать видео</string>
+    <string name="attach_file">Прикрепить файл</string>
+
+    <!-- Calls -->
+    <string name="voice_call">Голосовой звонок</string>
+    <string name="video_call">Видеозвонок</string>
+    <string name="calling">Вызов...</string>
+    <string name="ringing">Вызов...</string>
+    <string name="connected">Соединено</string>
+    <string name="call_ended">Звонок завершен</string>
+    <string name="call_declined">Звонок отклонен</string>
+    <string name="call_missed">Пропущенный звонок</string>
+    <string name="end_call">Завершить</string>
+    <string name="accept_call">Принять</string>
+    <string name="decline_call">Отклонить</string>
+    <string name="mute">Выкл. микрофон</string>
+    <string name="unmute">Вкл. микрофон</string>
+    <string name="speaker">Динамик</string>
+    <string name="camera">Камера</string>
+    <string name="switch_camera">Переключить камеру</string>
+    <string name="incoming_call">Входящий звонок</string>
+
+    <!-- Contacts -->
+    <string name="import_contacts">Импортировать контакты</string>
+    <string name="sync_contacts">Синхронизировать контакты</string>
+    <string name="contacts_imported">Контакты импортированы</string>
+    <string name="contacts_permission">Для импорта контактов необходимо разрешение</string>
+    <string name="no_contacts">Нет контактов</string>
+    <string name="start_chat">Начать чат</string>
+
+    <!-- Channels -->
+    <string name="create_channel">Создать канал</string>
+    <string name="channel_name">Название канала</string>
+    <string name="channel_description">Описание канала</string>
+    <string name="subscribers">подписчиков</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="unsubscribe">Отписаться</string>
+    <string name="no_channels">Нет каналов</string>
+
+    <!-- Settings -->
+    <string name="profile">Профиль</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="change_avatar">Изменить аватар</string>
+    <string name="notifications">Уведомления</string>
+    <string name="push_notifications">Push-уведомления</string>
+    <string name="sound">Звук</string>
+    <string name="vibration">Вибрация</string>
+    <string name="privacy">Приватность</string>
+    <string name="biometric_auth">Вход по отпечатку пальца</string>
+    <string name="biometric_enabled">Вход по отпечатку включен</string>
+    <string name="biometric_disabled">Вход по отпечатку отключен</string>
+    <string name="biometric_title">Вход в GoodOK</string>
+    <string name="biometric_subtitle">Используйте отпечаток пальца для входа</string>
+    <string name="language">Язык</string>
+    <string name="appearance">Внешний вид</string>
+    <string name="theme">Тема</string>
+    <string name="about">О приложении</string>
+    <string name="version">Версия %s</string>
+    <string name="logout">Выйти</string>
+    <string name="logout_confirm">Вы уверены, что хотите выйти?</string>
+
+    <!-- Premium -->
+    <string name="premium">Premium</string>
+    <string name="premium_features">Premium функции</string>
+    <string name="premium_description">Разблокируйте все возможности</string>
+    <string name="premium_subscribe">Подписаться</string>
+    <string name="premium_month">1 месяц - $2.99</string>
+    <string name="premium_year">1 год - $24.99</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera">Для фото и видеозвонков нужен доступ к камере</string>
+    <string name="permission_microphone">Для звонков нужен доступ к микрофону</string>
+    <string name="permission_contacts">Для импорта контактов нужен доступ к контактам</string>
+    <string name="permission_storage">Для отправки файлов нужен доступ к хранилищу</string>
+    <string name="grant_permission">Разрешить</string>
+
+    <!-- Errors -->
+    <string name="network_error">Ошибка сети</string>
+    <string name="auth_error">Ошибка авторизации</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="user_not_found">Пользователь не найден</string>
+    <string name="wrong_password">Неверный пароль</string>
+    <string name="email_in_use">Email уже используется</string>
+
+    <!-- Common -->
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="copy">Копировать</string>
+    <string name="forward">Переслать</string>
+    <string name="reply">Ответить</string>
+    <string name="search">Поиск</string>
+    <string name="loading">Загрузка...</string>
+    <string name="retry">Повторить</string>
+</resources>
