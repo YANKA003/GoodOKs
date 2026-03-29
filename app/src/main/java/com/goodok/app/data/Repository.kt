@@ -30,6 +30,9 @@ class Repository(context: Context) {
     val isPremium: Boolean
         get() = prefsManager.isPremium
 
+    val premiumType: String
+        get() = prefsManager.premiumType
+
     // Auth
     suspend fun login(email: String, password: String) = firebaseService.login(email, password)
 

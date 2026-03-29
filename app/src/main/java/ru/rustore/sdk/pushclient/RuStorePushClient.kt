@@ -1,7 +1,6 @@
 package ru.rustore.sdk.pushclient
 
 import android.content.Context
-import ru.rustore.sdk.pushclient.common.RuStorePushClientListener
 
 /**
  * STUB IMPLEMENTATION
