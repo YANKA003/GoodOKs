@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Theme Colors -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="accent">#03DAC5</color>
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="online">#4CAF50</color>
+    <color name="offline">#9E9E9E</color>
+
+    <!-- Message Colors -->
+    <color name="message_sent">#DCF8C6</color>
+    <color name="message_received">#FFFFFF</color>
+
+    <!-- Classic Theme -->
+    <color name="classic_primary">#2196F3</color>
+    <color name="classic_primary_dark">#1976D2</color>
+    <color name="classic_accent">#FF9800</color>
+
+    <!-- Modern Theme -->
+    <color name="modern_primary">#00BCD4</color>
+    <color name="modern_primary_dark">#0097A7</color>
+    <color name="modern_accent">#E91E63</color>
+
+    <!-- Neon Theme -->
+    <color name="neon_primary">#9C27B0</color>
+    <color name="neon_primary_dark">#7B1FA2</color>
+    <color name="neon_accent">#00E676</color>
+
+    <!-- Childish Theme -->
+    <color name="childish_primary">#FF9800</color>
+    <color name="childish_primary_dark">#F57C00</color>
+    <color name="childish_accent">#E91E63</color>
+</resources>

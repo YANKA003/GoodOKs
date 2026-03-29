@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Theme -->
+    <style name="Theme.GoodOK" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <!-- Classic Theme -->
+    <style name="Theme.GoodOK.Classic" parent="Theme.GoodOK">
+        <item name="colorPrimary">@color/classic_primary</item>
+        <item name="colorPrimaryDark">@color/classic_primary_dark</item>
+        <item name="colorAccent">@color/classic_accent</item>
+    </style>
+
+    <!-- Modern Theme -->
+    <style name="Theme.GoodOK.Modern" parent="Theme.GoodOK">
+        <item name="colorPrimary">@color/modern_primary</item>
+        <item name="colorPrimaryDark">@color/modern_primary_dark</item>
+        <item name="colorAccent">@color/modern_accent</item>
+    </style>
+
+    <!-- Neon Theme -->
+    <style name="Theme.GoodOK.Neon" parent="Theme.GoodOK">
+        <item name="colorPrimary">@color/neon_primary</item>
+        <item name="colorPrimaryDark">@color/neon_primary_dark</item>
+        <item name="colorAccent">@color/neon_accent</item>
+    </style>
+
+    <!-- Childish Theme -->
+    <style name="Theme.GoodOK.Childish" parent="Theme.GoodOK">
+        <item name="colorPrimary">@color/childish_primary</item>
+        <item name="colorPrimaryDark">@color/childish_primary_dark</item>
+        <item name="colorAccent">@color/childish_accent</item>
+    </style>
+
+</resources>

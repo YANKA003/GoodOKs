@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.premium.PremiumActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:titleTextColor="@android:color/white"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/tvCurrentPlan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:visibility="gone"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/basic_plan"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginTop="16dp"/>
+
+            <Button
+                android:id="@+id/btnBasicMonthly"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BASIC Monthly - $2.99"
+                android:layout_marginTop="8dp"/>
+
+            <Button
+                android:id="@+id/btnBasicForever"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BASIC Forever - $9.99"
+                android:layout_marginTop="8dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/goodplan"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginTop="24dp"/>
+
+            <Button
+                android:id="@+id/btnGoodplanMonthly"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GOODPLAN Monthly - $5.99"
+                android:layout_marginTop="8dp"/>
+
+            <Button
+                android:id="@+id/btnGoodplanForever"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GOODPLAN Forever - $19.99"
+                android:layout_marginTop="8dp"/>
+
+            <Button
+                android:id="@+id/btnRestore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/restore_purchases"
+                android:layout_marginTop="32dp"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoodOK</string>
+
+    <!-- Auth -->
+    <string name="login">Увайсці</string>
+    <string name="register">Рэгістрацыя</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="username">Імя карыстальніка</string>
+    <string name="phone">Тэлефон (неабавязкова)</string>
+    <string name="no_account">Няма акаўнта? Зарэгістравацца</string>
+    <string name="have_account">Ужо ёсць акаўнт? Увайсці</string>
+    <string name="fill_all_fields">Запоўніце ўсе палі</string>
+    <string name="error">Памылка</string>
+
+    <!-- Navigation -->
+    <string name="chats">Чаты</string>
+    <string name="calls">Званкі</string>
+    <string name="channels">Каналы</string>
+    <string name="contacts">Кантакты</string>
+    <string name="settings">Налады</string>
+    <string name="premium">Прэміум</string>
+    <string name="logout">Выйсці</string>
+
+    <!-- Chat -->
+    <string name="type_message">Увядзіце паведамленне…</string>
+    <string name="send">Адправіць</string>
+
+    <!-- Settings -->
+    <string name="theme">Тэма</string>
+    <string name="language">Мова</string>
+    <string name="notifications">Паведамленні</string>
+    <string name="privacy">Прыватнасць</string>
+    <string name="account">Акаўнт</string>
+
+    <!-- Premium -->
+    <string name="basic_plan">BASIC План</string>
+    <string name="goodplan">GOODPLAN</string>
+    <string name="restore_purchases">Аднавіць пакупкі</string>
+
+    <!-- Empty states -->
+    <string name="no_contacts">Кантакты не знойдзены</string>
+    <string name="no_messages">Няма паведамленняў</string>
+    <string name="no_calls">Няма званкоў</string>
+    <string name="no_channels">Няма каналаў</string>
+</resources>

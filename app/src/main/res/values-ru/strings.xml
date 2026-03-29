@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoodOK</string>
+
+    <!-- Auth -->
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="username">Имя пользователя</string>
+    <string name="phone">Телефон (необязательно)</string>
+    <string name="no_account">Нет аккаунта? Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="fill_all_fields">Заполните все поля</string>
+    <string name="error">Ошибка</string>
+
+    <!-- Navigation -->
+    <string name="chats">Чаты</string>
+    <string name="calls">Звонки</string>
+    <string name="channels">Каналы</string>
+    <string name="contacts">Контакты</string>
+    <string name="settings">Настройки</string>
+    <string name="premium">Премиум</string>
+    <string name="logout">Выйти</string>
+
+    <!-- Chat -->
+    <string name="type_message">Введите сообщение…</string>
+    <string name="send">Отправить</string>
+
+    <!-- Settings -->
+    <string name="theme">Тема</string>
+    <string name="language">Язык</string>
+    <string name="notifications">Уведомления</string>
+    <string name="privacy">Приватность</string>
+    <string name="account">Аккаунт</string>
+
+    <!-- Premium -->
+    <string name="basic_plan">BASIC План</string>
+    <string name="goodplan">GOODPLAN</string>
+    <string name="restore_purchases">Восстановить покупки</string>
+
+    <!-- Empty states -->
+    <string name="no_contacts">Контакты не найдены</string>
+    <string name="no_messages">Нет сообщений</string>
+    <string name="no_calls">Нет звонков</string>
+    <string name="no_channels">Нет каналов</string>
+</resources>
