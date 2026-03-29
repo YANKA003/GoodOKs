@@ -63,8 +63,14 @@ dependencies {
     implementation 'com.google.firebase:firebase-auth-ktx'
     implementation 'com.google.firebase:firebase-database-ktx'
 
-    // RuStore Push SDK - PRIMARY push notification service
-    implementation 'ru.rustore.sdk:pushclient:2.1.0'
+    // RuStore Push SDK - Using STUB implementation
+    // Real SDK requires download from https://repo.rustore.ru/ (blocked outside Belarus/Russia)
+    // Stub classes are provided in: app/src/main/java/ru/rustore/sdk/pushclient/
+    // To use real SDK:
+    // 1. Download pushclient JAR from RuStore
+    // 2. Place in app/libs/ folder
+    // 3. Uncomment: implementation files('libs/pushclient-2.1.0.jar')
+    // 4. Delete stub classes from app/src/main/java/ru/rustore/
 
     // Coroutines
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'

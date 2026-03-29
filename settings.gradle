@@ -10,8 +10,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        // RuStore SDK repository
-        maven { url 'https://repo.rustore.ru/' }
+        // RuStore SDK repository - blocked outside Belarus/Russia
+        // Uncomment when building locally in Belarus:
+        // maven { url 'https://repo.rustore.ru/' }
     }
 }
 rootProject.name = "GoodOK"
