@@ -43,9 +43,8 @@ captures/
 .externalNativeBuild
 .cxx/
 
-# Google Services - DO NOT COMMIT
-# Add your own google-services.json from Firebase Console
-app/google-services.json
+# Google Services - included for build
+# app/google-services.json
 
 # OS generated files
 .DS_Store
